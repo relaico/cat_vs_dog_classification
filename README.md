@@ -20,18 +20,18 @@ You can install these libraries using `pip`:
 ```bash
 pip install numpy matplotlib pandas seaborn tensorflow opencv-python-headless scikit-learn
 
-Usage
+##Usage
 
-    Clone the repository to your local machine:
+    #Clone the repository to your local machine:
 
     bash
 
-git clone https://github.com/yourusername/cat-vs-dog-classifier.git
+git clone https://github.com/relaico/cat-vs-dog-classifier.git
 cd cat-vs-dog-classifier
 
-Place your test images in a directory called test_images.
+##Place your test images in a directory called test_images.
 
-Run the script:
+#Run the script:
 
 bash
 
