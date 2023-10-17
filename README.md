@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file that you can use for your GitHub repository:
-
-```markdown
 # Cat vs Dog Image Classifier
 
 ![Cat vs Dog](link_to_an_image.png) <!-- Add an image to represent your project -->
@@ -35,7 +32,6 @@ To use this project:
 
    ```shell
    git clone https://github.com/yourusername/cat_vs_dog.git
-   ```
 
 2. Open the Jupyter Notebook `cat_vs_dog.ipynb` in your Jupyter Notebook environment or use Google Colab.
 
